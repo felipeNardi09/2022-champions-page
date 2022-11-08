@@ -1,0 +1,103 @@
+{
+  "championship-tour": [
+    {
+      "event": "Billabong Pro Pipeline",
+      "locale": "Banzai Pipeline, Oahu, Hawaii",
+      "femalechampion": "Moana Jones Wong",
+      "malechampion": "Kelly Slater",
+      "femalevice": "Johanne Defay",
+      "malevice": "Seth Moniz",
+      "id": 1
+    },
+    {
+      "event": "Hurley Pro Sunset Beach",
+      "locale": "Sunset Beach, Oahu, Hawaii",
+      "femalechampion": "Brisa Hennessy",
+      "malechampion": "Barron Mamiya",
+      "femalevice": "Malia Manuel",
+      "malevice": "Kanoa Igarashi",
+      "id": 2
+    },
+    {
+      "event": "MEO Portugal Pro",
+      "locale": "Peniche, Leiria, Portugal",
+      "femalechampion": "Tatiana Weston-Webb",
+      "malechampion": "Griffin Colapinto",
+      "femalevice": "Lakey Peterson",
+      "malevice": "Filipe Toledo",
+      "id": 3
+    },
+    {
+      "event": "Rip Curl Pro Bells Beach",
+      "locale": "Bells Beach, Victoria, Australia",
+      "femalechampion": "Tyler Wright",
+      "malechampion": "Filipe Toledo",
+      "femalevice": "Carissa Moore",
+      "malevice": "Callum Robson",
+      "id": 4
+    },
+    {
+      "event": "Margaret River Pro",
+      "locale": "Margaret River, Western Australia, Australia",
+      "femalechampion": "Isabella Nichols",
+      "malechampion": "Jack Robinson",
+      "femalevice": "Gabriela Bryan",
+      "malevice": "John John Florence",
+      "id": 5
+    },
+    {
+      "event": "Quiksilver/ROXY Pro G-Land",
+      "locale": "G-Land, Banyuwangi, Indonesia",
+      "femalechampion": "Johanne Defay",
+      "malechampion": "Jack Robinson",
+      "femalevice": "Carissa Moore",
+      "malevice": "Filipe Toledo",
+      "id": 6
+    },
+    {
+      "event": "Surf City El Salvador Pro",
+      "locale": "Punta Roca, La Libertad, El Salvador",
+      "femalechampion": "Stephanie Gilmore",
+      "malechampion": "Griffin Colapinto",
+      "femalevice": "Lakey Peterson",
+      "malevice": "Filipe Toledo",
+      "id": 7
+    },
+    {
+      "event": "Oi Rio Pro",
+      "locale": "Saquarema, Rio de Janeiro, Brazil",
+      "femalechampion": "Carissa  Moore",
+      "malechampion": "Filipe Toledo",
+      "femalevice": "Johanne Defay",
+      "malevice": "Samuel  Pupo",
+      "id": 8
+    },
+    {
+      "event": "Corona Open J-Bay",
+      "locale": "Jeffreys Bay, Eastern Cape, South Africa",
+      "femalechampion": "Tatiana Weston-Webb",
+      "malechampion": "Ethan Ewing",
+      "femalevice": "Tyler Wright",
+      "malevice": "Jack Robinson",
+      "id": 9
+    },
+    {
+      "event": "Outerknown Tahiti Pro",
+      "locale": "Teahupoʻo, Tahiti, French Polynesia",
+      "femalechampion": "Courtney Conlogue",
+      "malechampion": "Miguel Pupo",
+      "femalevice": "Brisa Hennessy",
+      "malevice": "Kauli Vaast",
+      "id": 10
+    },
+    {
+      "event": "Rip Curl WSL Finals",
+      "locale": "Lower Trestles, San Clemente, California, United States",
+      "femalechampion": "Stephanie Gilmore",
+      "malechampion": "Filipe Toledo",
+      "femalevice": "Carissa Moore",
+      "malevice": "Italo Ferreira",
+      "id": 11
+    }
+  ]
+}
