@@ -6,7 +6,7 @@ The project shows the  2022 world champions. Click the buttons to see the men an
 
 ## Installation
 
-clone the github repositorie:  https://github.com/felipeNardi09/2022-champions-page.git
+Clone the github repositorie:  https://github.com/felipeNardi09/2022-champions-page.git
 
 ```
 npm install
@@ -16,6 +16,6 @@ npm  start
 
 ## Technologies
 
-* React
+* [React](https://pt-br.reactjs.org/docs/getting-started.html)
 * JSON server
 
